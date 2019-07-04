@@ -1,4 +1,4 @@
-fn mail()
+fn main()
 {
     println('hello gerry.')
 }
