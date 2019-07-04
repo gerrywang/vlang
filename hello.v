@@ -4,5 +4,5 @@ fn main()
 
     println(7788 + 5566)
 
-    println("haha")
+
 }
